@@ -1,0 +1,1 @@
+# Saved-Pictures-by-Pytesseract
